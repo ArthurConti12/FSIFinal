@@ -1,0 +1,3 @@
+Links CSV Kaggle
+FSIMusica: https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year
+FSITitanic: https://www.kaggle.com/c/titanic/overview
